@@ -1,23 +1,3 @@
-!pip install -q evaluate datasets accelerate
-!pip install -q transformers
-!pip install -q huggingface_hub
-
-!pip install -q imbalanced-learn
-#Skip the installation if your runtime is in Google Colab notebooks.
-
-!pip install -q numpy
-#Skip the installation if your runtime is in Google Colab notebooks.
-
-!pip install -q pillow==11.0.0
-#Skip the installation if your runtime is in Google Colab notebooks.
-
-!pip install -q torchvision
-#Skip the installation if your runtime is in Google Colab notebooks.
-
-!pip install -q matplotlib
-!pip install -q scikit-learn
-#Skip the installation if your runtime is in Google Colab notebooks.
-
 import warnings
 warnings.filterwarnings("ignore")
 
