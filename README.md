@@ -1,4 +1,4 @@
-# Fine-Tuning SigLIP 2 for Single-Label Image Classification
+# Fine-Tuning SigLIP 2 for Multi-Label Image Classification
 
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/ayzPksY-A8Do5HHpU2xEM.png)
 
