@@ -1,4 +1,13 @@
+> [!note]
 Blog: https://huggingface.co/blog/prithivMLmods/siglip2-finetune-image-classification 
+
+## Fine-tuning Notebooks
+
+| Notebook Name                        | Description                                      | Download Link |
+|-------------------------------------|--------------------------------------------------|----------------|
+| `notebook-siglip2-finetune-type1`  | Fine-tune and evaluate using `full_train` data  | [Download](https://github.com/PRITHIVSAKTHIUR/FineTuning-SigLIP-2/blob/main/notebook-siglip2-finetune-type1/siglip2-tarin-and-evaluate-using-full_train-data.ipynb) |
+| `notebook-siglip2-finetune-type2`  | Fine-tune and evaluate using `test` data        | [Download](https://github.com/PRITHIVSAKTHIUR/FineTuning-SigLIP-2/blob/main/notebook-siglip2-finetune-type2/siglip2-tarin-and-evaluate-using-test-data.ipynb) |
+
 
 
 # Fine-Tuning SigLIP 2 for Multi-Label Image Classification
