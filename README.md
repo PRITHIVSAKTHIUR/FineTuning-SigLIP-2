@@ -1,4 +1,4 @@
-> [!note]
+> [!important]
 Blog: https://huggingface.co/blog/prithivMLmods/siglip2-finetune-image-classification 
 
 ## Fine-tuning Notebooks
