@@ -1,0 +1,5 @@
+**Finetune SigLIP2 Image Classification**
+
+This notebook demonstrates how to fine-tune [SigLIP 2](https://huggingface.co/google/siglip2-base-patch16-224), a robust multilingual vision-language model, for single-label image classification tasks. The fine-tuning process incorporates advanced techniques such as captioning-based pretraining, self-distillation, and masked prediction, unified within a streamlined training pipeline. The workflow supports datasets in both structured and unstructured forms, making it adaptable to various domains and resource levels.
+
+The notebook outlines two data handling scenarios. In the first, datasets include predefined train and test splits, enabling conventional supervised learning and generalization evaluation. In the second scenario, only a training split is available; in such cases, the training set is either partially reserved for validation or reused entirely for evaluation. This flexibility supports experimentation in constrained or domain-specific settings, where standard test annotations may not exist.
