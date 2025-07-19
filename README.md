@@ -17,3 +17,9 @@ last updated : jul 2025
 |------------------------------|------------------------------|
 | ![Type 1](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/l0vfc0wtIp5mHgP-KGtff.png) | ![Type 2](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/xFXZYGbbL1PgoyyobVLym.png) |
 
+---
+
+| Platform | Link |
+|----------|------|
+| Huggingface Blog | [![Model](https://img.shields.io/badge/🤗-Model-yellow)](https://huggingface.co/blog/prithivMLmods/siglip2-finetune-image-classification) |
+| GitHub Repository | [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/PRITHIVSAKTHIUR/FineTuning-SigLIP-2) |
