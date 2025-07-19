@@ -15,6 +15,8 @@ The notebook outlines two data handling scenarios. In the first, datasets includ
 last updated : jul 2025
 ```
 
+---
+
 | **Type 1: Train/Test Splits** | **Type 2: Only Train Split** |
 |------------------------------|------------------------------|
 | ![Type 1](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/l0vfc0wtIp5mHgP-KGtff.png) | ![Type 2](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/xFXZYGbbL1PgoyyobVLym.png) |
