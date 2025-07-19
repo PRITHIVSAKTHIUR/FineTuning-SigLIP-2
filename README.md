@@ -1,13 +1,20 @@
 > **Finetune SigLIP2 Image Classification**
 
-```
-last updated : jul 2025
-```
+
 
 | Notebook Name                        | Description                                      | Download Link |
 |-------------------------------------|--------------------------------------------------|----------------|
 | `notebook-siglip2-finetune-type1`  | Fine-tune and evaluate using `full_train` data  | [Download](https://github.com/PRITHIVSAKTHIUR/FineTuning-SigLIP-2/blob/main/Finetune-SigLIP2-Image-Classification/2.SigLIP2_Finetune_ImageClassification_OnlyTrain_Splits.ipynb) |
 | `notebook-siglip2-finetune-type2`  | Fine-tune and evaluate using `test` data        | [Download](https://github.com/PRITHIVSAKTHIUR/FineTuning-SigLIP-2/blob/main/Finetune-SigLIP2-Image-Classification/1.SigLIP2_Finetune_ImageClassification_TrainTest_Splits.ipynb) |
+
+```
+last updated : jul 2025
+```
+
+| **Type 1: Train/Test Splits** | **Type 2: Only Train Split** |
+|------------------------------|------------------------------|
+| ![Type 1](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/l0vfc0wtIp5mHgP-KGtff.png) | ![Type 2](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/xFXZYGbbL1PgoyyobVLym.png) |
+
 
 This notebook demonstrates how to fine-tune SigLIP 2, a robust multilingual vision-language model, for single-label image classification tasks. The fine-tuning process incorporates advanced techniques such as captioning-based pretraining, self-distillation, and masked prediction, unified within a streamlined training pipeline. The workflow supports datasets in both structured and unstructured forms, making it adaptable to various domains and resource levels.
 
