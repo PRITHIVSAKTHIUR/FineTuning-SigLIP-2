@@ -1,6 +1,6 @@
 > **Finetune SigLIP2 Image Classification**
 
-| Notebook Name                        | Description                                      | Download Link |
+| Notebook Name                        | Description                                      | Notebook Link |
 |-------------------------------------|--------------------------------------------------|----------------|
 | notebook-siglip2-finetune-type1  | Train/Test Splits  | [Download](https://github.com/PRITHIVSAKTHIUR/FineTuning-SigLIP-2/blob/main/Finetune-SigLIP2-Image-Classification/1.SigLIP2_Finetune_ImageClassification_TrainTest_Splits.ipynb) |
 | notebook-siglip2-finetune-type2  | Only Train Split  | [Download](https://github.com/PRITHIVSAKTHIUR/FineTuning-SigLIP-2/blob/main/Finetune-SigLIP2-Image-Classification/2.SigLIP2_Finetune_ImageClassification_OnlyTrain_Splits.ipynb) |
